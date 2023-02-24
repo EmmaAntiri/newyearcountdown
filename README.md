@@ -23,7 +23,7 @@ CSS provides styling to the website. The following is examined:
   - similar usage as the `::after` pseudo-element.
   - more on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
 - **Note** `::before` used to create content is discouraged where accessibility by screen readers is required. 
-The project is just for illustration of the use of this pseudo-element.
+  - The project just illustrates the use of this pseudo-element.
 
 ## JavaScript
 
